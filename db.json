@@ -3,7 +3,7 @@
     "name": "GK"
   }
   "DO": [
-    { "id": 0, "Pos": "ON" },
+    { "id": 0, "Pos": "OFF" },
     { "id": 1, "Pos": "ON" },
     { "id": 2, "title": "ON" },
     { "id": 3, "title": "ON" },
