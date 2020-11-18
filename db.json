@@ -1,1 +1,19 @@
-hello 
+{
+  "ID": {
+    "name": "GK"
+  }
+  "DO": [
+    { "id": 0, "Pos": "ON" },
+    { "id": 1, "Pos": "ON" },
+    { "id": 2, "title": "OFF" },
+    { "id": 3, "title": "OFF" },
+    { "id": 4, "title": "OFF" },
+    { "id": 5, "title": "OFF" },
+    { "id": 6, "title": "OFF" },
+    { "id": 7, "title": "OFF" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+}
