@@ -5,11 +5,11 @@
   },
   "DO": 
   [
-    {"id":0,"Pos":"ON"},
+    {"id":0,"Pos":"OF"},
     {"id":1,"Pos":"OF"},
-    {"id":2,"Pos":"ON"},
-    {"id":3,"Pos":"ON"},
-    {"id":4,"Pos":"ON"},
+    {"id":2,"Pos":"OF"},
+    {"id":3,"Pos":"OF"},
+    {"id":4,"Pos":"OF"},
     {"id":5,"Pos":"OF"},
     {"id":6,"Pos":"OF"},
     {"id":7,"Pos":"OF"}
