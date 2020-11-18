@@ -7,8 +7,8 @@
     { "id": 1, "Pos": "ON" },
     { "id": 2, "title": "ON" },
     { "id": 3, "title": "ON" },
-    { "id": 4, "title": "OFF" },
-    { "id": 5, "title": "OFF" },
+    { "id": 4, "title": "ON" },
+    { "id": 5, "title": "ON" },
     { "id": 6, "title": "OFF" },
     { "id": 7, "title": "OFF" }
   ],
